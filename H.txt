@@ -1,0 +1,28 @@
+How do you add a background color for all <h1> elements?
+A. all.h1 {background-color:#FFFFFF}
+B. h1.all {background-color:#FFFFFF}
+C. h1 {background-color:#FFFFFF}
+$end
+How do you display hyperlinks without an underline?
+A. a {text-decoration:no underline}
+B. a {decoration:no underline}
+C. a {text-decoration:none}
+D. a {underline:none}
+$end
+How do you make each word in a text start with a capital letter?
+A. text-transform:capitalize
+B. You can’t do that with CSS
+C. text-transform:uppercase
+$end
+Which of the following property of a anchor element signifies an element on which the user is currently clicking?
+A. :link
+B. :visited
+C. :hover
+D. :active
+$end
+Which of the following property is used as a shorthand to specify a number of other background properties?
+A. background-attachment
+B. background
+C. background-repeat
+D. background-position
+$end

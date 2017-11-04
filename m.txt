@@ -1,0 +1,205 @@
+0 is the additive identity.
+1 is the multiplicative identity.
+2 is the only even prime.
+3 is the number of spatial dimensions we live in.
+4 is the smallest number of colors sufficient to color all planar maps.
+5 is the number of Platonic solids.
+6 is the smallest perfect number.
+7 is the smallest number of sides of a regular polygon that is not constructible by straightedge and compass.
+8 is the largest cube in the Fibonacci sequence.
+9 is the maximum number of cubes that are needed to sum to any positive integer.
+10 is the base of our number system.
+11 is the largest known multiplicative persistence.
+12 is the smallest abundant number.
+13 is the number of Archimedean solids.
+14 is the smallest even number n with no solutions to psy(m) = n.
+15 is the smallest composite number n with the property that there is only one group of order n.
+16 is the only number of the form x^y = y^x with x and y being different integers.
+17 is the number of wallpaper groups.
+18 is the only positive number that is twice the sum of its digits.
+19 is the maximum number of 4th powers needed to sum to any number.
+20 is the number of rooted trees with 6 vertices.
+21 is the smallest number of distinct squares needed to tile a square.
+22 is the number of partitions of 8.
+23 is the smallest number of integersided boxes that tile a box so that no two boxes share a common length.
+24 is the largest number divisible by all numbers less than its square root.
+25 is the smallest square that can be written as a sum of 2 positive squares.
+26 is the only positive number to be directly between a square and a cube.
+27 is the largest number that is the sum of the digits of its cube.
+28 is the 2nd perfect number.
+29 is the 7th Lucas number.
+30 is the largest number with the property that all smaller numbers relatively prime to it are prime.
+31 is a Mersenne prime.
+32 is the smallest nontrivial 5th power.
+33 is the largest number that is not a sum of distinct triangular numbers.
+34 is the smallest number with the property that it and its neighbors have the same number of divisors.
+35 is the number of hexominoes.
+36 is the smallest nontrivial number which is both square and triangular.
+37 is the maximum number of 5th powers needed to sum to any number.
+38 is the last Roman numeral when written lexicographically.
+39 is the smallest number which has 3 different partitions into 3 parts with the same product.
+40 is the only number whose letters are in alphabetical order.
+41 is a value of n so that x^2 + x + n takes on prime values for x = 0, 1, 2, ... n2.
+42 is the 5th Catalan number.
+43 is the number of sided 7iamonds.
+44 is the number of derangements of 5 items.
+45 is a Kaprekar number.
+46 is the number of different arrangements (up to rotation and reflection) of 9 nonattacking queens on a 9×9 chessboard.
+47 is the largest number of cubes that cannot tile a cube.
+48 is the smallest number with 10 divisors.
+49 is the smallest number with the property that it and its neighbors are squareful.
+50 is the smallest number that can be written as the sum of of 2 squares in 2 ways.
+51 is the 6th Motzkin number.
+52 is the 5th Bell number.
+53 is the only two digit number that is reversed in hexadecimal.
+54 is the smallest number that can be written as the sum of 3 squares in 3 ways.
+55 is the largest triangular number in the Fibonacci sequence.
+56 is the number of reduced 5×5 Latin squares.
+57 = 111 in base 7.
+58 is the number of commutative semigroups of order 4.
+59 is the number of stellations of an icosahedron.
+60 is the smallest number divisible by 1 through 6.
+61 is the 3rd secant number.
+62 is the smallest number that can be written as the sum of of 3 distinct squares in 2 ways.
+63 is the number of partially ordered sets of 5 elements.
+64 is the smallest number with 7 divisors.
+65 is the smallest number that becomes square if its reverse is either added to or subtracted from it.
+66 is the number of 8iamonds.
+67 is the smallest number which is palindromic in bases 5 and 6.
+68 is the 2-digit string that appears latest in the decimal expansion of p.
+69 is a value of n where n^2 and n^3 together contain each digit once.
+70 is the smallest weird number.
+71 divides the sum of the primes less than it.
+72 is the maximum number of spheres that can touch another sphere in a lattice packing in 6 dimensions.
+73 is the smallest multidigit number which is one less than twice its reverse.
+74 is the number of different nonHamiltonian polyhedra with a minimum number of vertices.
+75 is the number of orderings of 4 objects with ties allowed.
+76 is an automorphic number.
+77 is the largest number that cannot be written as a sum of distinct numbers whose reciprocals sum to 1.
+78 is the smallest number that can be written as the sum of of 4 distinct squares in 3 ways.
+79 is a permutable prime.
+80 is the smallest number n where n and n+1 are both products of 4 or more primes.
+81 is the square of the sum of its digits.
+82 is the number of 6hexes.
+83 is the number of strongly connected digraphs with 4 vertices.
+84 is the largest order of a permutation of 14 elements.
+85 is the largest n for which 12+22+32+ ... +n2 = 1+2+3+ ... +m has a solution.
+86 = 222 in base 6.
+87 is the sum of the squares of the first 4 primes.
+88 is one of only 2 numbers known whose square has no isolated digits.
+89 = 8^1 + 9^2
+90 is the number of degrees in a right angle.
+91 is the smallest pseudoprime in base 3.
+92 is the number of different arrangements of 8 nonattacking queens on an 8×8 chessboard.
+93 = 333 in base 5.
+94 is a Smith number.
+95 is the number of planar partitions of 10.
+96 is the smallest number that can be written as the difference of 2 squares in 4 ways.
+97 is the smallest number with the property that its first 3 multiples contain the digit 9.
+98 is the smallest number with the property that its first 5 multiples contain the digit 9.
+99 is a Kaprekar number.
+100 is the smallest square which is also the sum of 4 consecutive cubes.
+101 is the number of partitions of 13.
+102 is the smallest number with three different digits.
+103 has the property that placing the last digit first gives 1 more than triple it.
+104 is the smallest known number of unit line segments that can exist in the plane, 4 touching at every vertex.
+105 is the largest number n known with the property that n 2^k is prime for k>1.
+106 is the number of trees with 10 vertices.
+107 is the exponent of a Mersenne prime.
+108 is 3 hyperfactorial.
+109 has a 5th root that starts 2.555555....
+110 is the smallest number that is the product of two different substrings.
+111 is the smallest possible magic constant of a 3×3 magic square of distinct primes.
+112 is the side of the smallest square that can be tiled with distinct integersided squares.
+113 is a permutable prime.
+114 = 222 in base 7.
+115 is the number of rooted trees with 8 vertices.
+116 is a value of n for which n! + 1 is prime.
+117 is the smallest possible value of the longest edge in a Heronian Tetrahedron.
+118 is the smallest number that has 4 different partitions into 3 parts with the same product.
+119 is the smallest number n where either n or n+1 is divisible by the numbers from 1 to 8.
+120 is the smallest number to appear 6 times in Pascal's triangle.
+121 is the only square of the form 1 + n + n2 + n3 + n4.
+122 is the smallest number n>1 so that n concatenated with n1 0's concatenated with the reverse of n is prime.
+123 is the 10th Lucas number.
+124 is the smallest number with the property that its first 3 multiples contain the digit 2.
+125 is the only number known that contains all its proper divisors as proper substrings.
+126 = 9C4.
+127 is a Mersenne prime.
+128 is the largest number which is not the sum of distinct squares.
+129 is the smallest number that can be written as the sum of 3 squares in 4 ways.
+130 is the number of functions from 6 unlabeled points to themselves.
+131 is a permutable prime.
+132 is the smallest number which is the sum of all of the 2digit numbers that can be formed with its digits.
+133 is the smallest number n for which the sum of the proper divisors of n divides psy(n).
+134 = 8C1 + 8C3 + 8C4.
+135 = 11 + 32 + 53.
+136 is the sum of the cubes of the digits of the sum of the cubes of its digits.
+137 is the smallest prime with 3 distinct digits that remains prime if one of its digits is removed.
+138 is a value of n for which n!!! 1 is prime.
+139 is the number of unlabeled topologies with 5 elements.
+140 is a harmonic divisor number.
+141 is the 6th central trinomial coefficient.
+142 is the number of planar graphs with 6 vertices.
+143 is the smallest quasiCarmichael number in base 8.
+144 is the largest square in the Fibonacci sequence.
+145 is a factorion.
+146 = 222 in base 8.
+147 is the number of sided 6hexes.
+148 is the number of perfect graphs with 6 vertices.
+149 is the smallest number whose square begins with three 2's.
+150 = (10010110)2 = (2112)4 = (1100)5, each using 2 different digits an equal number of times.
+151 is a palindromic prime.
+152 has a square composed of the digits 04.
+153 is a narcissistic number.
+154 is the smallest number which is palindromic in bases 6, 8, and 9.
+155 is the sum of the primes between its smallest and largest prime factor.
+156 is the number of graphs with 6 vertices.
+157 is the smallest number with psy(2n+1) < psy(2n).
+158 is the number of planar partitions of 11.
+159 is the number of isomers of C11H24.
+160 is the number of 9iamonds.
+161 is a Cullen number.
+162 is the smallest number that can be written as the sum of of 4 positive squares in 9 ways.
+163 is the largest Heegner Number.
+164 is the smallest number which is the concatenation of squares in two different ways.
+165 is the midpoint of the nth larger prime and nth smaller prime, for 1 = n = 6.
+166 is the number of monotone Boolean functions of 4 variables.
+167 is the smallest number whose 4th power begins with 4 identical digits
+168 is the size of the smallest noncyclic simple group which is not an alternating group.
+169 is the 7th Pell number.
+170 is the smallest number n for which psy(n) and alpha(n) are both square.
+171 has the same number of digits in Roman numerals as its cube.
+172 = 444 in base 6.
+173 has a square containing only 2 digits.
+174 is the smallest number that can be written as the sum of of 4 positive distinct squares in 6 ways.
+175 = 1^1 + 7^2 + 5^3.
+176 is an octagonal pentagonal number.
+177 is the number of graphs with 7 edges.
+178 has a cube with the same digits as another cube.
+179 has a square comprised of the digits 04.
+180 is the total number of degrees in a triangle.
+181 is a strobogrammatic prime.
+182 is the number of connected bipartite graphs with 8 vertices.
+183 is the smallest number n so that n concatenated with n+1 is square.
+184 is a Kaprekar constant in base 3.
+185 is the number of conjugacy classes in the automorphism group of the 8 dimensional hypercube.
+186 is the number of degree 11 irreducible polynomials over GF(2).
+187 is the smallest quasiCarmichael number in base 7.
+188 is the number of semigroups of order 4.
+189 is a Kaprekar constant in base 2.
+190 is the largest number with the property that it and its ditinct prime factors are palindromic in Roman numerals.
+191 is a number n for which n, n+2, n+6, and n+8 are all prime.
+192 is the smallest number with 14 divisors.
+193 is the largest number that can be written as ab + ac + bc with 0 < a < b < c in a unique way.
+194 is the smallest number that can be written as the sum of 3 squares in 5 ways.
+195 is the smallest value of n such that 2nCn is divisible by n^2.
+196 is the smallest number that is not known to reach a palindrome when repeatedly added to its reverse.
+197 is a Keith number.
+198 = 11 + 99 + 88.
+199 is the 11th Lucas number.
+200 is the smallest number which can not be made prime by changing one of its digits.
+201 is a Kaprekar constant in base 4.
+202 has a cube that contains only even digits.
+203 is the 6th Bell number.
+204 is the square root of a triangular number.

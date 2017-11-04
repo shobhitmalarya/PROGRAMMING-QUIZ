@@ -1,0 +1,37 @@
+SELECT CORRECT OUTPUT
+unsigned x = 5, y=&x, *p = y+0; 
+   printf("%u",*p);
+A. Address of x
+B.  Address of y
+C.  Address of p
+D. 5
+$end
+ What is the built in library function to adjust the allocated dynamic memory size.
+A. malloc 
+B. calloc
+C. realloc
+D. resize
+$end
+int y = 100;
+    const int x = y;
+    printf("%d\n", x);
+A. 100
+B. 0
+C. Print x
+D. Return Error
+$end
+char *s = "Hello";   
+   while(*s!=NULL)
+   printf("%c", *s++);
+A. Hello
+B. Helloellolloloo
+C. ello
+D. Compile error
+$end
+for(1;2;3)
+      printf("Hello");
+A. Infinite loop 
+B . Prints “Hello” once.
+C. No output
+D. Compile error
+$end

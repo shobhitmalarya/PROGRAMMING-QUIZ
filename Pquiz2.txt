@@ -1,0 +1,30 @@
+How many except statements can a try-except block have?
+a) zero
+b) one
+c) more than one
+d) more than zero
+$end
+What happens when ‘1’ == 1 is executed?
+a) we get a True
+b) we get a False   
+c) an TypeError occurs
+d) a ValueError occurs
+$end
+What the does random.seed(3) return?
+a) True
+b) None
+c) 3
+d) 1
+$end
+Which of the following is equivalent to random.randint(3, 6)?
+a) random.choice([3, 6])
+b) random.randrange(3, 6)
+c) 3 + random.randrange(3)
+d) 3 + random.randrange(4)
+$end
+Which of the following returns a string that represents the present working directory?
+a) os.getcwd()
+b) os.cwd()
+c) os.getpwd()
+d) os.pwd()
+$end

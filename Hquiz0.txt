@@ -1,0 +1,29 @@
+What is the correct HTML for referring to an external style sheet?
+A. <style src="mystyle.css">
+B. <link rel="stylesheet" type="text/css" href="mystyle.css">
+C. <stylesheet>mystyle.css</stylesheet>
+$end
+What is the correct HTML for creating a hyperlink?
+A. <a url="http://www.google.com">hyperlink</a>
+B. <a href="http://www.hyperlink.com">hyperlink</a>
+C. <a>http://www.hyperlink.com</a>
+D. <a name="http://www.link.com">google</a>
+$end
+How can you open a link in a new browser window?  
+A. A href="url" target="_blank"
+B. A href="url" new
+C. A href="url" target="new"
+D. A href="url" target=_window"
+$end
+How do you make a list that lists its items with squares?  
+A. Type: square
+B. List-type: square
+C. Type: 2
+D. List-style-type: square
+$end
+What is the difference between HTML and CSS?
+A. HTML deals with the function of site and CSS the form
+B. CSS is a markup language unlike HTML
+C. CSS deals with the function of site and HTML the form
+D. THERE IS NO DIFFERENCE
+$end

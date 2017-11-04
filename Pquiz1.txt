@@ -1,0 +1,30 @@
+Which of the following cannot be returned by random.randrange(4)?
+a) 0
+b) 3
+c) 2.3
+d) none of the mentioned
+$end
+Which type of elements are accepted by random.shuffle()?
+a) strings
+b) lists 
+c) tuples
+d) integers
+$end
+Which module in the python standard library parses options received from the command line?
+a) getopt
+b) os
+c) getarg
+d) main
+$end
+Suppose t = (1, 2, 4, 3), which of the following is incorrect?
+a) print(t[3])
+b) t[3] = 45
+c) print(max(t))
+d) print(len(t))
+$end
+Suppose d = {“john”:40, “peter”:45}, to delete the entry for “john” what command do we use
+a) d.delete(“john”:40)
+b) d.delete(“john”)
+c) del d[“john”] 
+d) del d(“john”:40)
+$end

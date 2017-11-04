@@ -1,0 +1,32 @@
+What will be the output of the following command?
+print((lambda x, y: (x + y)/2)(4, 3))
+A. 7 
+B. 3.5 
+C. error
+$end
+x = sum(range(3))
+print(x)
+What will be the output?
+A. an exception is thrown
+B. 3
+C. 6
+$end
+colors = [‘Red’, ‘Black’, ‘White’, ‘Green’]
+print(colors[-2][-2])
+What will be the output?
+A. t
+B. en
+C. n
+$end
+print(type([1,2,3]))
+A. <class 'set'>
+B. <class 'tuple'>
+C. <class 'list'>
+$end
+what gets printed?
+def f(): pass
+print type(f())
+A. <type 'function'>
+B. <type 'tuple'>
+C. <type 'NoneType'>
+$end

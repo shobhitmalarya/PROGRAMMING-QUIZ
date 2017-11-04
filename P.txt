@@ -1,0 +1,30 @@
+What is the range of values that random.random() can return?
+a) [0.0, 1.0] 
+b) (0.0, 1.0] 
+c) (0.0, 1.0)
+d) [0.0, 1.0) 
+$end
+Which module in Python supports regular expressions?
+a) re 
+b) regex
+c) pyregex
+d) none of the mentioned
+$end
+What is the difference between r+ and w+ modes?
+a) no difference
+b) in r+ the pointer is initially placed at the beginning of the file and the pointer is at the end for w+
+c) in w+ the pointer is initially placed at the beginning of the file and the pointer is at the end for r+
+d) depends on the operating system
+$end
+What is x if x = math.isfinite(float(‘0.0’))?
+a) True
+b) False
+c) None
+d) error
+$end
+Suppose d = {“john”:40, “peter”:45}, to obtain the number of entries in dictionary what command do we use
+a) d.size()
+b) len(d)
+c) size(d)
+d) d.len()
+$end

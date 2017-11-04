@@ -1,0 +1,31 @@
+Choose the invalid predefined macro as per ANSI C.
+A . __FILE__
+B . __DATE__
+C . __TIME__
+D . __C++__
+$end
+Which of the following variable cannot be used by switch-case statement?
+A . char
+B . int
+C . float
+D . Double
+$end
+The types of linkages are,
+A. Internal linkage and External linkage
+B.  Internal linkage, External linkage and None linkage
+C. Internal linkage and None linkage
+D. External linkage and None linkage
+$end
+Choose the invalid identifier from the below
+A. Int
+B. volatile
+C. DOUBLE
+D . __0__
+$end
+char c = 'A'+256; 
+    printf("%c", c);
+A.  A
+B . B
+C. Overflow error at runtime
+D. Compile error
+$end

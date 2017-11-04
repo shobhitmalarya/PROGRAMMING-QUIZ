@@ -1,0 +1,27 @@
+What is the correct HTML for adding a background color?
+A.<background>yellow</background>
+B. <body bg="yellow">
+C.<body style="background-color:yellow;">
+$end
+What are the range of heading tags available using HTML?
+A.<h1> to <h6>
+B.<h1> to <h8>
+C.<h1> to <h7>
+D.<h1> to <h9>
+$end
+ Is width=”100px” and width=”100%” the same?
+A. No
+B. Yes
+$end
+For Frames in HTML, how do you specify the rest of the screen?
+A. Using &
+B. Using $
+C. Using *
+D. Using #
+$end
+Which of the following property of a anchor element signifies unvisited hyperlinks?
+A. :link
+B. :visited
+C. :hover
+D. :active
+$end
